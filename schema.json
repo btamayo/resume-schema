@@ -240,8 +240,7 @@
           },
           "startDate": {
             "type": "string",
-            "description": "A string in any format that will appear as your start date",
-            "format": "date"
+            "description": "A string in any format that will appear as your start date"
           },
           "endDate": {
             "type": "string",

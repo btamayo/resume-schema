@@ -390,7 +390,7 @@
       "items": {
         "type": "object",
         "properties": {
-          "header": {
+          "category": {
             "type": "string",
             "description": "This is a category of skills"
           },
